@@ -22,7 +22,7 @@ PRESTO is published with the following files:
     │   │   └── test.jsonl
     │   ├── de-DE_disfluency
     │   │   └── test.jsonl
-    │   ├── de-DE_no_GDP
+    │   ├── de-DE_non_contextual
     │   │   └── test.jsonl
     │   ├── de-DE_no_phenomena
     │   │   └── test.jsonl
