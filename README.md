@@ -1,6 +1,6 @@
 # PRESTO
 
-*PRESTO: A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs*
+[*PRESTO: A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs*](https://arxiv.org/abs/2303.08954)
 
 ## Introduction
 
@@ -59,7 +59,15 @@ Each JSONL file contains a list of examples. An example has the following fields
 If you use this dataset, please cite the following paper:
 
 ```
-[Coming soon]
+@misc{https://doi.org/10.48550/arxiv.2303.08954,
+  doi = {10.48550/ARXIV.2303.08954},
+  url = {https://arxiv.org/abs/2303.08954},
+  author = {Goel, Rahul and Ammar, Waleed and Gupta, Aditya and Vashishtha, Siddharth and Sano, Motoki and Surani, Faiz and Chang, Max and Choe, HyunJeong and Greene, David and He, Kyle and Nitisaroj, Rattima and Trukhina, Anna and Paul, Shachi and Shah, Pararth and Shah, Rushin and Yu, Zhou},
+  title = {PRESTO: A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs},
+  publisher = {arXiv},
+  year = {2023},
+}
+
 ```
 
 ## License
